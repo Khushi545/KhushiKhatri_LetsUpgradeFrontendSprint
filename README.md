@@ -15,3 +15,5 @@ Every day, large quantities of edible food are wasted in restaurants, hostels, c
 
 
 By empowering users and organizations to make smarter food decisions, RasoiMate promotes sustainability, minimizes food waste, and fosters a culture of sharing and community care.
+
+Built under LetsUpgrade SAP Program
